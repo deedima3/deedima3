@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/deedima3/deedima3/blob/main/devcard.svg" width="400" alt="Deedima's DevCard"/></a>
 <!--
 **deedima3/deedima3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
