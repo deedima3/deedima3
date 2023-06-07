@@ -3,7 +3,6 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/deedima3/deedima3/blob/main/devcard.svg" width="400" alt="Deedima's DevCard" align="right"/></a>
 <p>I'm a second year CS student who likes Cat and Developing User Interface</p>
 <p>I primarily work on React and Svelte with Tailwind CSS</p>
-<p>Currently working as a Frontend Developer Intern @ Grab </p>
 </div>
 
 ## Contacts
