@@ -1,6 +1,6 @@
 ## Hi I'm Dima 👋
 <div align="left">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/deedima3/deedima3/blob/main/devcard.svg" width="400" alt="Deedima's DevCard" align="right"/></a>
+<a href="https://app.daily.dev/deedima3"><img src="https://api.daily.dev/devcards/v2/yhzEhiUr5mxe7kcW2a5HK.png?r=oiw" width="356" alt="Gede Sudimahendra's Dev Card"/></a>
 <p>I'm a second year CS student who likes Cat and Developing User Interface</p>
 <p>I primarily work on React and Svelte with Tailwind CSS</p>
 </div>
