@@ -23,7 +23,7 @@ Fullstack Developer @ Japanese OTA Company
 ![PocketBase](https://img.shields.io/badge/-PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=black)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=deedima3&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
 <a href="https://wa.link/1u6yzh">
